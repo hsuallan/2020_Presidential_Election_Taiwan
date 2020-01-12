@@ -1,0 +1,506 @@
+{ 
+  "18:03:01": [
+    {"person": "宋楚瑜", "percent": "3.6472"},
+    {"person": "韓國瑜", "percent": "38.5889"},
+    {"person": "蔡英文", "percent": "57.7639"},
+    {"process": "1378/17226"}
+  ],
+  "18:06:01": [
+    {"person": "宋楚瑜", "percent": "3.6836"},
+    {"person": "韓國瑜", "percent": "38.4295"},
+    {"person": "蔡英文", "percent": "57.8868"},
+    {"process": "1582/17226"}
+  ],
+  "18:09:01": [
+    {"person": "宋楚瑜", "percent": "3.7014"},
+    {"person": "韓國瑜", "percent": "38.3361"},
+    {"person": "蔡英文", "percent": "57.9625"},
+    {"process": "1808/17226"}
+  ],
+  "18:12:01": [
+    {"person": "宋楚瑜", "percent": "3.7408"},
+    {"person": "韓國瑜", "percent": "38.2634"},
+    {"person": "蔡英文", "percent": "57.9959"},
+    {"process": "2050/17226"}
+  ],
+  "18:15:01": [
+    {"person": "宋楚瑜", "percent": "3.7430"},
+    {"person": "韓國瑜", "percent": "38.0993"},
+    {"person": "蔡英文", "percent": "58.1577"},
+    {"process": "2310/17226"}
+  ],
+  "18:18:01": [
+    {"person": "宋楚瑜", "percent": "3.7538"},
+    {"person": "韓國瑜", "percent": "38.0863"},
+    {"person": "蔡英文", "percent": "58.1599"},
+    {"process": "2602/17226"}
+  ],
+  "18:21:01": [
+    {"person": "宋楚瑜", "percent": "3.7729"},
+    {"person": "韓國瑜", "percent": "38.0646"},
+    {"person": "蔡英文", "percent": "58.1626"},
+    {"process": "2909/17226"}
+  ],
+  "18:24:01": [
+    {"person": "宋楚瑜", "percent": "3.7906"},
+    {"person": "韓國瑜", "percent": "37.9973"},
+    {"person": "蔡英文", "percent": "58.2121"},
+    {"process": "3236/17226"}
+  ],
+  "18:27:01": [
+    {"person": "宋楚瑜", "percent": "3.8082"},
+    {"person": "韓國瑜", "percent": "38.0055"},
+    {"person": "蔡英文", "percent": "58.1863"},
+    {"process": "3555/17226"}
+  ],
+  "18:30:01": [
+    {"person": "宋楚瑜", "percent": "3.8282"},
+    {"person": "韓國瑜", "percent": "37.9907"},
+    {"person": "蔡英文", "percent": "58.1811"},
+    {"process": "3894/17226"}
+  ],
+  "18:33:01": [
+    {"person": "宋楚瑜", "percent": "3.8425"},
+    {"person": "韓國瑜", "percent": "37.9933"},
+    {"person": "蔡英文", "percent": "58.1642"},
+    {"process": "4238/17226"}
+  ],
+  "18:36:01": [
+    {"person": "宋楚瑜", "percent": "3.8596"},
+    {"person": "韓國瑜", "percent": "38.0239"},
+    {"person": "蔡英文", "percent": "58.1165"},
+    {"process": "4594/17226"}
+  ],
+  "18:39:01": [
+    {"person": "宋楚瑜", "percent": "3.8783"},
+    {"person": "韓國瑜", "percent": "38.0217"},
+    {"person": "蔡英文", "percent": "58.1000"},
+    {"process": "4966/17226"}
+  ],
+  "18:42:01": [
+    {"person": "宋楚瑜", "tickets": "131,522", "percent": "3.8962"},
+    {"person": "韓國瑜", "tickets": "1,281,272", "percent": "37.9566"},
+    {"person": "蔡英文", "tickets": "1,962,828", "percent": "58.1472"},
+    {"process": "5370/17226"}
+  ],
+  "18:45:01": [
+    {"person": "宋楚瑜", "tickets": "143,472", "percent": "3.9159"},
+    {"person": "韓國瑜", "tickets": "1,390,268", "percent": "37.9456"},
+    {"person": "蔡英文", "tickets": "2,130,103", "percent": "58.1385"},
+    {"process": "5747/17226"}
+  ],
+  "18:48:01": [
+    {"person": "宋楚瑜", "tickets": "156,230", "percent": "3.9270"},
+    {"person": "韓國瑜", "tickets": "1,509,931", "percent": "37.9537"},
+    {"person": "蔡英文", "tickets": "2,312,191", "percent": "58.1193"},
+    {"process": "6143/17226"}
+  ],
+  "18:51:01": [
+    {"person": "宋楚瑜", "tickets": "170,065", "percent": "3.9387"},
+    {"person": "韓國瑜", "tickets": "1,637,713", "percent": "37.9298"},
+    {"person": "蔡英文", "tickets": "2,509,970", "percent": "58.1315"},
+    {"process": "6566/17226"}
+  ],
+  "18:54:01": [
+    {"person": "宋楚瑜", "tickets": "184,002", "percent": "3.9524"},
+    {"person": "韓國瑜", "tickets": "1,764,614", "percent": "37.9047"},
+    {"person": "蔡英文", "tickets": "2,706,785", "percent": "58.1429"},
+    {"process": "6976/17226"}
+  ],
+  "18:57:01": [
+    {"person": "宋楚瑜", "tickets": "198,645", "percent": "3.9654"},
+    {"person": "韓國瑜", "tickets": "1,897,663", "percent": "37.8812"},
+    {"person": "蔡英文", "tickets": "2,913,197", "percent": "58.1534"},
+    {"process": "7404/17226"}
+  ],
+  "19:00:01": [
+    {"person": "宋楚瑜", "tickets": "213,639", "percent": "3.9746"},
+    {"person": "韓國瑜", "tickets": "2,034,210", "percent": "37.8454"},
+    {"person": "蔡英文", "tickets": "3,127,200", "percent": "58.1799"},
+    {"process": "7833/17226"}
+  ],
+  "19:03:01": [
+    {"person": "宋楚瑜", "tickets": "227,865", "percent": "3.9900"},
+    {"person": "韓國瑜", "tickets": "2,162,792", "percent": "37.8715"},
+    {"person": "蔡英文", "tickets": "3,320,209", "percent": "58.1385"},
+    {"process": "8234/17226"}
+  ],
+  "19:06:01": [
+    {"person": "宋楚瑜", "tickets": "241,537", "percent": "3.9986"},
+    {"person": "韓國瑜", "tickets": "2,288,279", "percent": "37.8822"},
+    {"person": "蔡英文", "tickets": "3,510,694", "percent": "58.1192"},
+    {"process": "8620/17226"}
+  ],
+  "19:09:01": [
+    {"person": "宋楚瑜", "tickets": "257,233", "percent": "4.0168"},
+    {"person": "韓國瑜", "tickets": "2,427,504", "percent": "37.9069"},
+    {"person": "蔡英文", "tickets": "3,719,126", "percent": "58.0763"},
+    {"process": "9042/17226"}
+  ],
+  "19:12:01": [
+    {"person": "宋楚瑜", "tickets": "271,963", "percent": "4.0304"},
+    {"person": "韓國瑜", "tickets": "2,558,144", "percent": "37.9110"},
+    {"person": "蔡英文", "tickets": "3,917,655", "percent": "58.0586"},
+    {"process": "9433/17226"}
+  ],
+  "19:15:01": [
+    {"person": "宋楚瑜", "tickets": "286,814", "percent": "4.0396"},
+    {"person": "韓國瑜", "tickets": "2,692,213", "percent": "37.9184"},
+    {"person": "蔡英文", "tickets": "4,120,998", "percent": "58.0420"},
+    {"process": "9828/17226"}
+  ],
+  "19:18:01": [
+    {"person": "宋楚瑜", "tickets": "302,185", "percent": "4.0461"},
+    {"person": "韓國瑜", "tickets": "2,832,773", "percent": "37.9297"},
+    {"person": "蔡英文", "tickets": "4,333,534", "percent": "58.0242"},
+    {"process": "10240/17226"}
+  ],
+  "19:21:01": [
+    {"person": "宋楚瑜", "tickets": "317,366", "percent": "4.0590"},
+    {"person": "韓國瑜", "tickets": "2,965,110", "percent": "37.9224"},
+    {"person": "蔡英文", "tickets": "4,536,414", "percent": "58.0186"},
+    {"process": "10626/17226"}
+  ],
+  "19:24:01": [
+    {"person": "宋楚瑜", "tickets": "331,773", "percent": "4.0672"},
+    {"person": "韓國瑜", "tickets": "3,099,232", "percent": "37.9936"},
+    {"person": "蔡英文", "tickets": "4,726,238", "percent": "57.9392"},
+    {"process": "10995/17226"}
+  ],
+  "19:27:01": [
+    {"person": "宋楚瑜", "tickets": "346,720", "percent": "4.0751"},
+    {"person": "韓國瑜", "tickets": "3,234,726", "percent": "38.0190"},
+    {"person": "蔡英文", "tickets": "4,926,729", "percent": "57.9058"},
+    {"process": "11377/17226"}
+  ],
+  "19:30:01": [
+    {"person": "宋楚瑜", "tickets": "360,975", "percent": "4.0841"},
+    {"person": "韓國瑜", "tickets": "3,361,386", "percent": "38.0314"},
+    {"person": "蔡英文", "tickets": "5,116,083", "percent": "57.8844"},
+    {"process": "11736/17226"}
+  ],
+  "19:33:01": [
+    {"person": "宋楚瑜", "tickets": "375,039", "percent": "4.0941"},
+    {"person": "韓國瑜", "tickets": "3,487,596", "percent": "38.0724"},
+    {"person": "蔡英文", "tickets": "5,297,789", "percent": "57.8334"},
+    {"process": "12080/17226"}
+  ],
+  "19:36:01": [
+    {"person": "宋楚瑜", "tickets": "389,783", "percent": "4.1017"},
+    {"person": "韓國瑜", "tickets": "3,619,668", "percent": "38.0903"},
+    {"person": "蔡英文", "tickets": "5,493,415", "percent": "57.8080"},
+    {"process": "12441/17226"}
+  ],
+  "19:39:01": [
+    {"person": "宋楚瑜", "tickets": "404,332", "percent": "4.1098"},
+    {"person": "韓國瑜", "tickets": "3,748,526", "percent": "38.1016"},
+    {"person": "蔡英文", "tickets": "5,685,392", "percent": "57.7887"},
+    {"process": "12796/17226"}
+  ],
+  "19:42:01": [
+    {"person": "宋楚瑜", "tickets": "417,713", "percent": "4.1203"},
+    {"person": "韓國瑜", "tickets": "3,866,258", "percent": "38.1364"},
+    {"person": "蔡英文", "tickets": "5,854,006", "percent": "57.7433"},
+    {"process": "13112/17226"}
+  ],
+  "19:45:01": [
+    {"person": "宋楚瑜", "tickets": "430,101", "percent": "4.1272"},
+    {"person": "韓國瑜", "tickets": "3,976,564", "percent": "38.1590"},
+    {"person": "蔡英文", "tickets": "6,014,371", "percent": "57.7138"},
+    {"process": "13409/17226"}
+  ],
+  "19:48:01": [
+    {"person": "宋楚瑜", "tickets": "443,780", "percent": "4.1367"},
+    {"person": "韓國瑜", "tickets": "4,095,032", "percent": "38.1722"},
+    {"person": "蔡英文", "tickets": "6,188,961", "percent": "57.6910"},
+    {"process": "13725/17226"}
+  ],
+  "19:51:01": [
+    {"person": "宋楚瑜", "tickets": "456,713", "percent": "4.1456"},
+    {"person": "韓國瑜", "tickets": "4,209,228", "percent": "38.2072"},
+    {"person": "蔡英文", "tickets": "6,350,901", "percent": "57.6472"},
+    {"process": "14019/17226"}
+  ],
+  "19:54:01": [
+    {"person": "宋楚瑜", "tickets": "468,941", "percent": "4.1554"},
+    {"person": "韓國瑜", "tickets": "4,315,557", "percent": "38.2411"},
+    {"person": "蔡英文", "tickets": "6,500,638", "percent": "57.6035"},
+    {"process": "14289/17226"}
+  ],
+  "19:57:01": [
+    {"person": "宋楚瑜", "tickets": "480,632", "percent": "4.1642"},
+    {"person": "韓國瑜", "tickets": "4,417,136", "percent": "38.2699"},
+    {"person": "蔡英文", "tickets": "6,644,304", "percent": "57.5660"},
+    {"process": "14554/17226"}
+  ],
+  "20:00:01": [
+    {"person": "宋楚瑜", "tickets": "492,333", "percent": "4.1717"},
+    {"person": "韓國瑜", "tickets": "4,520,315", "percent": "38.3021"},
+    {"person": "蔡英文", "tickets": "6,789,085", "percent": "57.5262"},
+    {"process": "14819/17226"}
+  ],
+  "20:03:01": [
+    {"person": "宋楚瑜", "tickets": "502,721", "percent": "4.1805"},
+    {"person": "韓國瑜", "tickets": "4,608,921", "percent": "38.3269"},
+    {"person": "蔡英文", "tickets": "6,913,653", "percent": "57.4926"},
+    {"process": "15047/17226"}
+  ],
+  "20:06:01": [
+    {"person": "宋楚瑜", "tickets": "511,790", "percent": "4.1875"},
+    {"person": "韓國瑜", "tickets": "4,685,682", "percent": "38.3383"},
+    {"person": "蔡英文", "tickets": "7,024,450", "percent": "57.4742"},
+    {"process": "15242/17226"}
+  ],
+  "20:09:01": [
+    {"person": "宋楚瑜", "tickets": "520,247", "percent": "4.1938"},
+    {"person": "韓國瑜", "tickets": "4,756,810", "percent": "38.3458"},
+    {"person": "蔡英文", "tickets": "7,127,975", "percent": "57.4604"},
+    {"process": "15425/17226"}
+  ],
+  "20:12:01": [
+    {"person": "宋楚瑜", "tickets": "528,571", "percent": "4.1985"},
+    {"person": "韓國瑜", "tickets": "4,830,223", "percent": "38.3673"},
+    {"person": "蔡英文", "tickets": "7,230,623", "percent": "57.4341"},
+    {"process": "15606/17226"}
+  ],
+  "20:15:01": [
+    {"person": "宋楚瑜", "tickets": "536,215", "percent": "4.2049"},
+    {"person": "韓國瑜", "tickets": "4,897,264", "percent": "38.4031"},
+    {"person": "蔡英文", "tickets": "7,318,784", "percent": "57.3920"},
+    {"process": "15767/17226"}
+  ],
+  "20:18:01": [
+    {"person": "宋楚瑜", "tickets": "544,038", "percent": "4.2093"},
+    {"person": "韓國瑜", "tickets": "4,964,780", "percent": "38.4130"},
+    {"person": "蔡英文", "tickets": "7,415,912", "percent": "57.3777"},
+    {"process": "15931/17226"}
+  ],
+  "20:21:01": [
+    {"person": "宋楚瑜", "tickets": "550,860", "percent": "4.2142"},
+    {"person": "韓國瑜", "tickets": "5,022,919", "percent": "38.4267"},
+    {"person": "蔡英文", "tickets": "7,497,664", "percent": "57.3591"},
+    {"process": "16076/17226"}
+  ],
+  "20:24:01": [
+    {"person": "宋楚瑜", "tickets": "556,952", "percent": "4.2188"},
+    {"person": "韓國瑜", "tickets": "5,075,883", "percent": "38.4486"},
+    {"person": "蔡英文", "tickets": "7,568,915", "percent": "57.3327"},
+    {"process": "16203/17226"}
+  ],
+  "20:27:01": [
+    {"person": "宋楚瑜", "tickets": "562,440", "percent": "4.2222"},
+    {"person": "韓國瑜", "tickets": "5,123,044", "percent": "38.4587"},
+    {"person": "蔡英文", "tickets": "7,635,416", "percent": "57.3191"},
+    {"process": "16317/17226"}
+  ],
+  "20:30:01": [
+    {"person": "宋楚瑜", "tickets": "567,700", "percent": "4.2240"},
+    {"person": "韓國瑜", "tickets": "5,170,195", "percent": "38.4695"},
+    {"person": "蔡英文", "tickets": "7,701,820", "percent": "57.3064"},
+    {"process": "16435/17226"}
+  ],
+  "20:33:01": [
+    {"person": "宋楚瑜", "tickets": "573,296", "percent": "4.2272"},
+    {"person": "韓國瑜", "tickets": "5,217,724", "percent": "38.4728"},
+    {"person": "蔡英文", "tickets": "7,771,102", "percent": "57.3000"},
+    {"process": "16552/17226"}
+  ],
+  "20:36:01": [
+    {"person": "宋楚瑜", "tickets": "578,008", "percent": "4.2303"},
+    {"person": "韓國瑜", "tickets": "5,257,881", "percent": "38.4813"},
+    {"person": "蔡英文", "tickets": "7,827,567", "percent": "57.2883"},
+    {"process": "16649/17226"}
+  ],
+  "20:39:01": [
+    {"person": "宋楚瑜", "tickets": "581,645", "percent": "4.2326"},
+    {"person": "韓國瑜", "tickets": "5,289,748", "percent": "38.4932"},
+    {"person": "蔡英文", "tickets": "7,870,628", "percent": "57.2742"},
+    {"process": "16725/17226"}
+  ],
+  "20:42:01": [
+    {"person": "宋楚瑜", "tickets": "584,310", "percent": "4.2353"},
+    {"person": "韓國瑜", "tickets": "5,310,583", "percent": "38.4931"},
+    {"person": "蔡英文", "tickets": "7,901,285", "percent": "57.2716"},
+    {"process": "16779/17226"}
+  ],
+  "20:45:01": [
+    {"person": "宋楚瑜", "tickets": "587,496", "percent": "4.2384"},
+    {"person": "韓國瑜", "tickets": "5,336,766", "percent": "38.5012"},
+    {"person": "蔡英文", "tickets": "7,937,039", "percent": "57.2604"},
+    {"process": "16839/17226"}
+  ],
+  "20:48:01": [
+    {"person": "宋楚瑜", "tickets": "590,259", "percent": "4.2404"},
+    {"person": "韓國瑜", "tickets": "5,359,919", "percent": "38.5053"},
+    {"person": "蔡英文", "tickets": "7,969,787", "percent": "57.2544"},
+    {"process": "16892/17226"}
+  ],
+  "20:51:01": [
+    {"person": "宋楚瑜", "tickets": "592,332", "percent": "4.2418"},
+    {"person": "韓國瑜", "tickets": "5,378,975", "percent": "38.5194"},
+    {"person": "蔡英文", "tickets": "7,993,006", "percent": "57.2388"},
+    {"process": "16933/17226"}
+  ],
+  "20:54:01": [
+    {"person": "宋楚瑜", "tickets": "594,188", "percent": "4.2424"},
+    {"person": "韓國瑜", "tickets": "5,396,602", "percent": "38.5312"},
+    {"person": "蔡英文", "tickets": "8,015,014", "percent": "57.2264"},
+    {"process": "16971/17226"}
+  ],
+  "20:57:01": [
+    {"person": "宋楚瑜", "tickets": "596,188", "percent": "4.2447"},
+    {"person": "韓國瑜", "tickets": "5,412,402", "percent": "38.5351"},
+    {"person": "蔡英文", "tickets": "8,036,805", "percent": "57.2202"},
+    {"process": "17007/17226"}
+  ],
+  "21:00:01": [
+    {"person": "宋楚瑜", "tickets": "597,692", "percent": "4.2459"},
+    {"person": "韓國瑜", "tickets": "5,425,562", "percent": "38.5421"},
+    {"person": "蔡英文", "tickets": "8,053,711", "percent": "57.2120"},
+    {"process": "17036/17226"}
+  ],
+  "21:03:01": [
+    {"person": "宋楚瑜", "tickets": "599,340", "percent": "4.2476"},
+    {"person": "韓國瑜", "tickets": "5,439,923", "percent": "38.5539"},
+    {"person": "蔡英文", "tickets": "8,070,657", "percent": "57.1985"},
+    {"process": "17064/17226"}
+  ],
+  "21:06:01": [
+    {"person": "宋楚瑜", "tickets": "600,628", "percent": "4.2485"},
+    {"person": "韓國瑜", "tickets": "5,451,642", "percent": "38.5619"},
+    {"person": "蔡英文", "tickets": "8,085,100", "percent": "57.1896"},
+    {"process": "17088/17226"}
+  ],
+  "21:09:01": [
+    {"person": "宋楚瑜", "tickets": "601,451", "percent": "4.2492"},
+    {"person": "韓國瑜", "tickets": "5,458,885", "percent": "38.5661"},
+    {"person": "蔡英文", "tickets": "8,094,279", "percent": "57.1847"},
+    {"process": "17103/17226"}
+  ],
+  "21:12:01": [
+    {"person": "宋楚瑜", "tickets": "602,280", "percent": "4.2500"},
+    {"person": "韓國瑜", "tickets": "5,465,663", "percent": "38.5682"},
+    {"person": "蔡英文", "tickets": "8,103,472", "percent": "57.1818"},
+    {"process": "17118/17226"}
+  ],
+  "21:15:01": [
+    {"person": "宋楚瑜", "tickets": "603,187", "percent": "4.2506"},
+    {"person": "韓國瑜", "tickets": "5,473,545", "percent": "38.5712"},
+    {"person": "蔡英文", "tickets": "8,114,009", "percent": "57.1782"},
+    {"process": "17134/17226"}
+  ],
+  "21:18:01": [
+    {"person": "宋楚瑜", "tickets": "604,020", "percent": "4.2516"},
+    {"person": "韓國瑜", "tickets": "5,480,702", "percent": "38.5775"},
+    {"person": "蔡英文", "tickets": "8,122,275", "percent": "57.1709"},
+    {"process": "17148/17226"}
+  ],
+  "21:21:01": [
+    {"person": "宋楚瑜", "tickets": "604,709", "percent": "4.2523"},
+    {"person": "韓國瑜", "tickets": "5,486,486", "percent": "38.5808"},
+    {"person": "蔡英文", "tickets": "8,129,582", "percent": "57.1669"},
+    {"process": "17160/17226"}
+  ],
+  "21:24:01": [
+    {"person": "宋楚瑜", "tickets": "605,248", "percent": "4.2527"},
+    {"person": "韓國瑜", "tickets": "5,491,551", "percent": "38.5857"},
+    {"person": "蔡英文", "tickets": "8,135,280", "percent": "57.1616"},
+    {"process": "17169/17226"}
+  ],
+  "21:27:01": [
+    {"person": "宋楚瑜", "tickets": "606,012", "percent": "4.2533"},
+    {"person": "韓國瑜", "tickets": "5,498,675", "percent": "38.5921"},
+    {"person": "蔡英文", "tickets": "8,143,513", "percent": "57.1547"},
+    {"process": "17183/17226"}
+  ],
+  "21:30:01": [
+    {"person": "宋楚瑜", "tickets": "606,331", "percent": "4.2534"},
+    {"person": "韓國瑜", "tickets": "5,501,959", "percent": "38.5959"},
+    {"person": "蔡英文", "tickets": "8,146,996", "percent": "57.1507"},
+    {"process": "17189/17226"}
+  ],
+  "21:33:01": [
+    {"person": "宋楚瑜", "tickets": "606,674", "percent": "4.2539"},
+    {"person": "韓國瑜", "tickets": "5,504,941", "percent": "38.5995"},
+    {"person": "蔡英文", "tickets": "8,150,090", "percent": "57.1467"},
+    {"process": "17194/17226"}
+  ],
+  "21:36:01": [
+    {"person": "宋楚瑜", "tickets": "606,871", "percent": "4.2541"},
+    {"person": "韓國瑜", "tickets": "5,506,531", "percent": "38.6006"},
+    {"person": "蔡英文", "tickets": "8,152,000", "percent": "57.1453"},
+    {"process": "17197/17226"}
+  ],
+  "21:39:01": [
+    {"person": "宋楚瑜", "tickets": "607,204", "percent": "4.2543"},
+    {"person": "韓國瑜", "tickets": "5,509,633", "percent": "38.6028"},
+    {"person": "蔡英文", "tickets": "8,155,784", "percent": "57.1429"},
+    {"process": "17204/17226"}
+  ],
+  "21:42:01": [
+    {"person": "宋楚瑜", "tickets": "607,314", "percent": "4.2543"},
+    {"person": "韓國瑜", "tickets": "5,510,729", "percent": "38.6036"},
+    {"person": "蔡英文", "tickets": "8,157,143", "percent": "57.1421"},
+    {"process": "17206/17226"}
+  ],
+  "21:45:01": [
+    {"person": "宋楚瑜", "tickets": "607,489", "percent": "4.2544"},
+    {"person": "韓國瑜", "tickets": "5,512,222", "percent": "38.6033"},
+    {"person": "蔡英文", "tickets": "8,159,436", "percent": "57.1423"},
+    {"process": "17209/17226"}
+  ],
+  "21:48:01": [
+    {"person": "宋楚瑜", "tickets": "607,705", "percent": "4.2548"},
+    {"person": "韓國瑜", "tickets": "5,513,995", "percent": "38.6055"},
+    {"person": "蔡英文", "tickets": "8,161,234", "percent": "57.1398"},
+    {"process": "17212/17226"}
+  ],
+  "21:51:01": [
+    {"person": "宋楚瑜", "tickets": "607,930", "percent": "4.2551"},
+    {"person": "韓國瑜", "tickets": "5,515,783", "percent": "38.6068"},
+    {"person": "蔡英文", "tickets": "8,163,371", "percent": "57.1381"},
+    {"process": "17215/17226"}
+  ],
+  "21:54:01": [
+    {"person": "宋楚瑜", "tickets": "608,124", "percent": "4.2553"},
+    {"person": "韓國瑜", "tickets": "5,517,537", "percent": "38.6083"},
+    {"person": "蔡英文", "tickets": "8,165,390", "percent": "57.1364"},
+    {"process": "17218/17226"}
+  ],
+  "21:57:01": [
+    {"person": "宋楚瑜", "tickets": "608,229", "percent": "4.2553"},
+    {"person": "韓國瑜", "tickets": "5,518,675", "percent": "38.6099"},
+    {"person": "蔡英文", "tickets": "8,166,519", "percent": "57.1348"},
+    {"process": "17220/17226"}
+  ],
+  "22:00:01": [
+    {"person": "宋楚瑜", "tickets": "608,331", "percent": "4.2553"},
+    {"person": "韓國瑜", "tickets": "5,519,709", "percent": "38.6110"},
+    {"person": "蔡英文", "tickets": "8,167,654", "percent": "57.1337"},
+    {"process": "17222/17226"}
+  ],
+  "22:03:01": [
+    {"person": "宋楚瑜", "tickets": "608,468", "percent": "4.2554"},
+    {"person": "韓國瑜", "tickets": "5,520,909", "percent": "38.6115"},
+    {"person": "蔡英文", "tickets": "8,169,229", "percent": "57.1330"},
+    {"process": "17224/17226"}
+  ],
+  "22:06:01": [
+    {"person": "宋楚瑜", "tickets": "608,525", "percent": "4.2555"},
+    {"person": "韓國瑜", "tickets": "5,521,483", "percent": "38.6127"},
+    {"person": "蔡英文", "tickets": "8,169,652", "percent": "57.1318"},
+    {"process": "17225/17226"}
+  ],
+  "22:09:01": [
+    {"person": "宋楚瑜", "tickets": "608,525", "percent": "4.2555"},
+    {"person": "韓國瑜", "tickets": "5,521,483", "percent": "38.6127"},
+    {"person": "蔡英文", "tickets": "8,169,652", "percent": "57.1318"},
+    {"process": "17225/17226"}
+  ],
+  "22:12:01": [
+    {"person": "宋楚瑜", "tickets": "608,590", "percent": "4.2556"},
+    {"person": "韓國瑜", "tickets": "5,522,119", "percent": "38.6138"},
+    {"person": "蔡英文", "tickets": "8,170,186", "percent": "57.1306"},
+    {"process": "17226/17226"}
+  ]
+}
